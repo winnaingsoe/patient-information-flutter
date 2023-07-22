@@ -1,0 +1,4 @@
+#Sat Jul 22 07:19:44 MMT 2023
+base.0=C\:\\Users\\winna\\Desktop\\patient_information\\patient-information\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
